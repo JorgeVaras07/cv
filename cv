@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Mi CV - Jorge Varas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="img2.jpeg" alt="Usuario Foto" width="150" height="150">
+        <h1>Jorge Francisco Varas López</h1>
+        <strong> INGENIERIA EN SISTEMAS DE LA INFORMACIÓN </strong>
+    </header>
+    <section id = "Perfil">
+        <h2>Perfil Profesional</h2>
+        <p> Soy un estudiante de ingeniería en sistemas de la información con poca experiencia en desarrollo web y analisis de datos.
+             Me apasiona transformar datos en informacion valiosa para la toma de decisiones.
+            </p>
+    </section>
+
+    <section id = "Acerca de mi">
+        <h2>Acerca de mi</h2>
+        <p> Excelente trato con el cliente y habilidades 
+comunicativas. 
+Experiencia en atención presencial. 
+ 
+Capacidad para resolver problemas y 
+gestionar reclamos con empatía. 
+ 
+Manejo adecuado de técnicas de 
+comunicación verbal y escrita. 
+Puntualidad, responsabilidad y 
+organización del tiempo. 
+            </p>
+    </section>
+
+    <section id = "Experiencia">
+        <h2>Experiencia Laboral</h2>
+        <ul>
+            <li>
+                <h3>Atención al cliente</h3>
+                <p>Brinde un servicio de calidad para un restaurante de desayunos, tomando ordenes, dando atención en mesa, recogiendo platos y limpiando el lugar de trabajo y de recepción al cliente.</p>
+            </li>
+            
+        </ul>
+    </section>
+    <section id = "Educacion">
+        <h2>Educacion</h2>
+        <ul>
+            
+            <li>
+                <h3>Unidad de Educación Básica "Vida Nueva" - Guayaquil.</h3>
+                <p>Curse todos los cursos básicos en esta institución.</p>
+                <h3>Unidad Educativa de la Armada "Liceo Naval de Guayaquil Cmdte. Rafael Andrade Lalama."</h3>
+                <p>Me gradue de Bachiller en esta institución.</p>
+                <h3>Ingenieria en Sistemas de Informacion - Universidad de Guayaquil</h3>
+                <p>Actualmente estudiante de la carrera en horario nocturno.</p>
+                
+            </li>
+        </ul>
+    </section>
+    <section id = "Habilidades">
+             <h2>Habilidades</h2>
+        <ul>
+            
+            <li>
+               <p> <strong>- Phyton </strong></p> 
+                <p> </p><strong>- Pseint </strong></p> 
+                <p> </p><strong>- Excel intermedio </strong></p> 
+                <p> </p><strong>- Visual Studio Code </strong></p> 
+                <p> </p><strong>- Ingles avanzado </strong></p> 
+
+            </li>
+        </ul>
+    </section>   
+        <section id = "Contacto">
+             <h2>Contacto</h2>
+        <ul>
+            
+            <li>
+                <h3>Celular Personal.</h3>
+                <p>0988257633</p>
+                <h3>Correo Electrónico.</h3>
+                <p>jorgevaras72004@gmail.com</p>
+            </li>
+        </ul>
+    </section>   
+            <section id = "Referencias">
+             <h2>Referencias</h2>
+        <ul>
+            
+            <li>
+                <h3>Ingeniero Carlos Lenin Gamboa. </h3>
+                <p>0988929108.</p>
+                <h3>Abg. Yamil Emilio Antón Chica.</h3>
+                <p>0985190853. </p>
+            </li>
+        </ul>
+    </section>  
+
+</body>
+</html>
